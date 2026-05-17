@@ -9,11 +9,11 @@ permalink: /portfolio/precision-spraying-closing-the-loop/
 
 The project's contributions span the full sense-act-evaluate loop:
 
-- An **automated evaluation system** for precision sprayers, built around computer vision pipelines that can analyse post-spraying imagery in field-like conditions — [TAROS 2023](/publication/2023-04-01-taros-precision-spraying-evaluation/) (Best Application nominee).
-- A **deposit identification system** that detects and localises individual spray deposits on plant surfaces — [IEEE CASE 2023](/publication/2023-08-01-ieee-case-deposit-identification/).
-- An investigation of **interpretable quantized CNNs** for deployment on the constrained hardware that lives on a real sprayer — [KDIR 2023](/publication/2023-10-01-kdir-interpretable-quantized-cnns/) (Best Paper).
-- **Domain-specific augmentations and robustness testing** that push these models toward generalising across crops, lighting, and growth stages — [Neural Computing and Applications, 2024](/publication/2024-01-01-ncaa-precision-agriculture-augmentations/).
-- A follow-up [arXiv preprint, 2024](/publication/2024-01-01-arxiv-post-spraying-evaluation/) extending the post-spraying evaluation work.
+- An **automated evaluation system** for precision sprayers, built around computer vision pipelines that can analyse post-spraying imagery in field-like conditions — [TAROS 2023](/publication/2023-taros-precision-spraying-evaluation/) (Best Application nominee).
+- A **deposit identification system** that detects and localises individual spray deposits on plant surfaces — [IEEE CASE 2023](/publication/2023-ieee-case-deposit-identification/).
+- An investigation of **interpretable quantized CNNs** for deployment on the constrained hardware that lives on a real sprayer — [KDIR 2023](/publication/2023-kdir-interpretable-quantized-cnn/) (Best Paper).
+- **Domain-specific augmentations and robustness testing** that push these models toward generalising across crops, lighting, and growth stages — [Neural Computing and Applications, 2024](/publication/2024-ncaa-domain-specific-augmentations/).
+- A follow-up [arXiv preprint, 2024](/publication/2024-arxiv-post-spraying-evaluation/) extending the post-spraying evaluation work.
 
 Taken together, this thread of work is an end-to-end argument that **explainability, edge-deployability, and rigorous evaluation** must be co-designed in agricultural AI — not bolted on. The closed loop is not just a control-systems metaphor; it is the condition under which precision spraying can be trusted, regulated, and scaled.
 

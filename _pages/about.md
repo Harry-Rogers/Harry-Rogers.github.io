@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Harry Rogers, a Postdoctoral Research Associate at the Institute of Biomedical Engineering (IBME), University of Oxford, working in Prof. Alison Noble's Biomedical Image Analysis group.
+I'm Harry Rogers, a Postdoctoral Research Associate at the Institute of Biomedical Engineering (IBME), University of Oxford. I'm a member of Prof. Alison Noble's [Biomedical Image Analysis group](https://eng.ox.ac.uk/biomedia/) and the [SHAIPE](https://www.shaipe.co.uk/people.html) consortium — a collaborative group spanning engineering, psychology, and clinical practice.
 
-My broad research interest is **human-AI collaboration in medical AI** — how clinicians, learners, and AI systems work together when the stakes are real. I'm currently focused on AI in medical education: the imaging-vs-education tension dissolves once both are treated as instances of the same underlying question about how humans and models should share decisions, evidence, and trust.
+My core research thread is **eXplainable AI (XAI) and human–AI collaboration** in computer vision. I'm interested in the mechanics of how AI systems and people share decisions, evidence, and trust — not as a wrapper around an opaque model, but as a property of the system from the start.
 
-Before joining the Noble group I worked on medical-imaging AI applications, including automating the Clock Drawing Test with deep learning and saliency maps (EPIA 2024) and quality assurance for home spirometry using machine learning (IEEE ISCC 2025). Both projects centred on making model behaviour legible to clinicians rather than treating AI as a black box. <!-- TODO(owner): refine -->
+At Oxford I'm working on **AI as an instructor** within SHAIPE — using vision-language models in human–AI collaboration for skill instruction and learning. A recent thread of that work is *[Learning to Defer: A Survey](/publication/2025-l2d-survey)* (Strong, Sun, **Rogers**, Higham, Noble, 2025), which maps the literature on systems that choose between predicting autonomously and deferring to a human expert.
 
-I completed my DPhil at the [AgriFoRwArdS CDT](https://agriforwards-cdt.blogs.lincoln.ac.uk/) (University of East Anglia), supervised by Prof. Beatriz De La Iglesia in collaboration with Syngenta, with the thesis *Closing The Loop on Precision Spraying* — covering sprayer evaluation, deposit identification, and interpretable quantized CNNs for in-field agricultural robotics. Before that I completed an MSc in Robotics & Autonomous Systems at UEA and a BSc in Computer Science at the University of Lincoln. <!-- TODO(owner): refine -->
+I completed my DPhil at the [AgriFoRwArdS CDT](https://agriforwards-cdt.blogs.lincoln.ac.uk/) (University of East Anglia, 2021–2024), supervised by Prof. Beatriz De La Iglesia in collaboration with Syngenta. The thesis worked on XAI for agricultural computer vision — evaluating precision spraying systems, identifying spray deposits, and building interpretable quantised CNNs that run on resource-constrained agri-robots (KDIR 2023 Best Paper Award; TAROS 2023 Best Application nomination). The medical-imaging work I did between PhD and Oxford — automating the Clock Drawing Test with saliency maps (EPIA 2024) and quality assurance for home spirometry (IEEE ISCC 2025) — was an XAI thread first, applied to clinical data. Before all of that I read for an MSc in Robotics & Autonomous Systems at the University of Lincoln and a BSc in Computer Science also at Lincoln.
 
 ## Now / Recently / Previously
 

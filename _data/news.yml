@@ -2,21 +2,24 @@
 # Schema: each entry is { date: "<Mon YYYY>", item: "<one-line markdown>" }.
 # NEVER add personal/opinion entries. No body field — structurally enforces "no blog".
 
+- date: "Dec 2025"
+  item: "Preprint *[Learning to Defer: A Survey](/publication/2025-l2d-survey)* (Strong, Sun, **Rogers**, Higham, Noble) — arXiv."
+
 # TODO(owner): confirm exact start month
-- date: "May 2026"
-  item: "Started as Postdoctoral Research Associate at the [Institute of Biomedical Engineering](https://eng.ox.ac.uk/), University of Oxford, in Prof. Alison Noble's Biomedical Image Analysis group."
+- date: "2025"
+  item: "Started as Postdoctoral Research Associate at the [Institute of Biomedical Engineering](https://eng.ox.ac.uk/), University of Oxford — member of the [Noble group](https://eng.ox.ac.uk/biomedia/) and [SHAIPE](https://www.shaipe.co.uk/people.html)."
 
 - date: "Jun 2025"
-  item: "Co-authored paper *Quality Assurance for Home Spirometry using Machine Learning* presented at IEEE ISCC 2025."
+  item: "Co-authored *Quality Assurance for Home Spirometry using Machine Learning* presented at [IEEE ISCC 2025](/publication/2025-ieee-iscc-spirometry-qa)."
 
 - date: "Sep 2024"
-  item: "Co-authored paper *Automating the Clock Drawing Test with Deep Learning and Saliency Maps* presented at EPIA 2024."
+  item: "Co-authored *Automating the Clock Drawing Test with Deep Learning and Saliency Maps* presented at [EPIA 2024](/publication/2024-epia-clock-drawing-test)."
 
 - date: "Feb 2024"
   item: "Paper *Advancing precision agriculture: domain-specific augmentations and robustness testing* published in *Neural Computing and Applications*."
 
 - date: "Nov 2023"
-  item: "🏆 Best Paper Award at KDIR 2023 for *Evaluating the use of interpretable quantized convolutional neural networks*."
+  item: "🏆 Best Paper Award at [KDIR 2023](/publication/2023-kdir-interpretable-quantized-cnn) for *Evaluating the use of interpretable quantized convolutional neural networks*."
 
 - date: "Sep 2023"
-  item: "Paper *An automated precision spraying evaluation system* presented at TAROS 2023 (Best Application nomination)."
+  item: "*An automated precision spraying evaluation system* presented at [TAROS 2023](/publication/2023-taros-precision-spraying-evaluation) — Best Application nomination."
