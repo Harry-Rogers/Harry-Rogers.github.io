@@ -53,7 +53,17 @@ Source of truth: [PROJECT.md](PROJECT.md). Requirements: [REQUIREMENTS.md](REQUI
   3. The `/publications/` page lists all 8 known papers in reverse-chronological order, each with title, authors (Harry bolded), venue, year, DOI/arXiv/preprint link, and an inline copyable BibTeX block; the KDIR 2023 entry visibly shows a "Best Paper Award" badge.
   4. The `/talks/`, `/teaching/`, and `/portfolio/` pages each render real entries (no template demo items remain), and the author profile sidebar shows ORCID, Google Scholar, GitHub, LinkedIn, and Oxford department links — each rendered as a FontAwesome icon link (no iframes, no embedded widgets).
   5. A News widget on the landing page shows at least 3 milestone entries (e.g. "starting Oxford postdoc", "ISCC 2025 paper accepted", "KDIR 2023 Best Paper"), sourced from `_data/news.yml` (NOT `_posts/` and NOT a `_news/` collection — the absence of any post-style file structurally enforces "no blog").
-**Plans**: TBD
+**Plans**: 10 plans
+- [ ] 02-01-PLAN.md — Purge demo content (grep gate)
+- [ ] 02-02-PLAN.md — Landing page: bio, Now/Recently/Previously widget, news widget include
+- [ ] 02-03-PLAN.md — Headshot resize and avatar wiring
+- [ ] 02-04-PLAN.md — Publications (8 entries + BibTeX include + KDIR Best Paper badge)
+- [ ] 02-05-PLAN.md — Talks (conference + chaired sessions + career)
+- [ ] 02-06-PLAN.md — Teaching and outreach entries
+- [ ] 02-07-PLAN.md — Portfolio (4 projects)
+- [ ] 02-08-PLAN.md — _data/news.yml seed entries
+- [ ] 02-09-PLAN.md — Navigation: remove CV and Blog Posts entries
+- [ ] 02-10-PLAN.md — Author sidebar links (ORCID/Scholar/GitHub/LinkedIn/Oxford) + iframe audit
 **UI hint**: yes
 
 ---
