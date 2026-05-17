@@ -1,8 +1,8 @@
 ---
 title: "Architectures and Operating Systems — Lead Associate Tutor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2023-architectures-os-uea
+type: "Undergraduate course, 2021–2024"
+permalink: /teaching/2023-architectures-os-uea/
 venue: "University of East Anglia, School of Computing Sciences"
 date: 2021-09-01
 location: "Norwich, UK"

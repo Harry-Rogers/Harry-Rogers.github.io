@@ -1,8 +1,8 @@
 ---
 title: "Ubiquitous Computing — Associate Tutor"
 collection: teaching
-type: "Undergraduate and Masters course"
-permalink: /teaching/2023-ubiquitous-computing-uea
+type: "Undergraduate and Masters course, 2021–2024"
+permalink: /teaching/2023-ubiquitous-computing-uea/
 venue: "University of East Anglia, School of Computing Sciences"
 date: 2021-09-01
 location: "Norwich, UK"

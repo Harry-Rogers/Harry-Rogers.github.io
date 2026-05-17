@@ -1,8 +1,8 @@
 ---
 title: "Data Mining — Lead Associate Tutor"
 collection: teaching
-type: "Masters course"
-permalink: /teaching/2023-data-mining-uea
+type: "Masters course, 2021–2024"
+permalink: /teaching/2023-data-mining-uea/
 venue: "University of East Anglia, School of Computing Sciences"
 date: 2021-09-01
 location: "Norwich, UK"

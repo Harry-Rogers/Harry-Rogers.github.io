@@ -1,8 +1,8 @@
 ---
 title: "Outreach and Public Engagement"
 collection: teaching
-type: "Outreach (ongoing)"
-permalink: /teaching/outreach-and-public-engagement
+type: "Outreach, 2020–2024"
+permalink: /teaching/outreach-and-public-engagement/
 venue: "Various"
 date: 2021-09-01
 location: "UK"
