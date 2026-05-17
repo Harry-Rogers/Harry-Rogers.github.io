@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course"
 permalink: /teaching/2023-data-mining-uea
 venue: "University of East Anglia, School of Computing Sciences"
-date: 2023-01-01
+date: 2021-09-01
 location: "Norwich, UK"
 ---
 
@@ -14,4 +14,4 @@ Weekly 4-hour labs with required preparation: marking, teaching of the other Ass
 
 Concepts covered include a methodology for Knowledge Discovery in Databases (KDD); data warehousing, data marts, and OLAP; data cleansing and preprocessing; classification and clustering with traditional ML; association rules; text mining; ensembles; security, ethics, and privacy; and explainability.
 
-<!-- TODO(owner): confirm academic year(s) the module was taught -->
+*Taught across the PhD: September 2021 – September 2024.*

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-architectures-os-uea
 venue: "University of East Anglia, School of Computing Sciences"
-date: 2023-01-01
+date: 2021-09-01
 location: "Norwich, UK"
 ---
 
@@ -14,4 +14,4 @@ Weekly 4-hour labs with required preparation: marking, teaching of the other Ass
 
 Concepts covered include transistors and logic; building blocks of computers; principles of instruction set architectures; further processing and an introduction to quantum computing; system calls, processes and threads; process scheduling; inter-process communication; memory and cache; file system management; and memory management.
 
-<!-- TODO(owner): confirm academic year(s) the module was taught -->
+*Taught across the PhD: September 2021 – September 2024.*

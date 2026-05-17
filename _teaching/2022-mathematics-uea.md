@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-mathematics-uea
 venue: "University of East Anglia, School of Computing Sciences"
-date: 2022-01-01
+date: 2021-09-01
 location: "Norwich, UK"
 ---
 
@@ -14,4 +14,4 @@ Weekly 2-hour seminars with required preparation.
 
 Concepts covered include calculus; complex numbers; vectors and linear algebra; combinatorics; sequences and series; and probability and statistics.
 
-<!-- TODO(owner): confirm academic year(s) the module was taught -->
+*Taught across the PhD: September 2021 – September 2024.*

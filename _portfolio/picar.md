@@ -9,6 +9,4 @@ permalink: /portfolio/picar/
 
 The project's contribution is less a single algorithmic result and more a **deliberately accessible reference design**: parts you can buy, code you can read, and a build that a student or a smallholder could replicate without an industrial budget. The accompanying paper, [An open source seeding agri-robot (UK-RAS 2020)](/publication/2020-uk-ras-seeding-agri-robot/), documents the system end-to-end so others can fork it. With 15 citations it has been the most-cited piece of my early work, which suggests that the "openness" framing was the right one for the agri-robotics community at that moment.
 
-PiCar also matters narratively: it is where I learned that **a robot that ships, runs in dirt, and other people can build is worth more than a robot that only exists in a paper**. That bias toward demonstrable, reproducible systems has carried through every project since.
-
 <!-- TODO(owner): add GitHub repo URL for PiCar source / hardware BOM -->

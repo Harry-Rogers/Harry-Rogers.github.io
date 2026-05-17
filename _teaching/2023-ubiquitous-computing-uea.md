@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Masters course"
 permalink: /teaching/2023-ubiquitous-computing-uea
 venue: "University of East Anglia, School of Computing Sciences"
-date: 2023-01-01
+date: 2021-09-01
 location: "Norwich, UK"
 ---
 
@@ -14,4 +14,4 @@ Weekly 2-hour labs with required preparation, including stock management and end
 
 Concepts covered include signal processing; machine learning; human–computer interaction; the Internet of Things; networks; and wearable technology.
 
-<!-- TODO(owner): confirm academic year(s) the module was taught -->
+*Taught across the PhD: September 2021 – September 2024.*

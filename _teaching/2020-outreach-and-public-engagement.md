@@ -4,7 +4,7 @@ collection: teaching
 type: "Outreach (ongoing)"
 permalink: /teaching/outreach-and-public-engagement
 venue: "Various"
-date: 2020-09-01
+date: 2021-09-01
 location: "UK"
 ---
 
