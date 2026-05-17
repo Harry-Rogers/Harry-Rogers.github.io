@@ -22,7 +22,7 @@ repository               : "Harry-Rogers/Harry-Rogers.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Harry Rogers"
   pronouns         : # example: "she/her"
   bio              : "Postdoctoral Research Associate, IBME, University of Oxford. Human-AI collaboration in medical AI."

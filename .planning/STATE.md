@@ -3,12 +3,12 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: Awaiting `/gsd-plan-phase 1`
-last_updated: "2026-05-17T16:10:24.773Z"
+last_updated: "2026-05-17T19:57:28.800Z"
 progress:
   total_phases: 4
   completed_phases: 0
-  total_plans: 0
-  completed_plans: 0
+  total_plans: 15
+  completed_plans: 2
   percent: 0
 ---
 
