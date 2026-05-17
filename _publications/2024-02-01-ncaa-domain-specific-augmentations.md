@@ -1,6 +1,7 @@
 ---
 title: "Advancing precision agriculture: domain-specific augmentations and robustness testing for convolutional neural networks in precision spraying evaluation"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-ncaa-domain-specific-augmentations
 excerpt: "Domain-specific data augmentations and robustness testing for CNNs in precision-spraying evaluation, Neural Computing and Applications 2024."
 date: 2024-02-01

@@ -1,6 +1,7 @@
 ---
 title: "Automating the Clock Drawing Test with Deep Learning and Saliency Maps"
 collection: publications
+category: conferences
 permalink: /publication/2024-epia-clock-drawing-test
 excerpt: "Automated Clock Drawing Test scoring using deep learning with saliency-map explanations, EPIA 2024."
 date: 2024-09-01

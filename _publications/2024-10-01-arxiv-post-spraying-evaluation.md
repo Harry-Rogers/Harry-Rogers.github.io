@@ -1,6 +1,7 @@
 ---
 title: "Deep Learning for Precision Agriculture: Post-Spraying Evaluation"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-arxiv-post-spraying-evaluation
 excerpt: "Deep-learning approach to automated post-spraying evaluation in precision agriculture, arXiv preprint 2024."
 date: 2024-10-01

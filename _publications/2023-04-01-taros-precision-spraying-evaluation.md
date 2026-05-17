@@ -1,6 +1,7 @@
 ---
 title: "An automated precision spraying evaluation system"
 collection: publications
+category: conferences
 permalink: /publication/2023-taros-precision-spraying-evaluation
 excerpt: "Automated computer-vision pipeline for evaluating precision-sprayer deposit accuracy on weeds, TAROS 2023 (Best Application nomination)."
 date: 2023-04-01

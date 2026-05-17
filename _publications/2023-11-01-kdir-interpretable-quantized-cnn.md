@@ -1,6 +1,7 @@
 ---
 title: "Evaluating the use of interpretable quantized convolutional neural networks for resource-constrained deployment"
 collection: publications
+category: conferences
 permalink: /publication/2023-kdir-interpretable-quantized-cnn
 excerpt: "Best Paper Award winner at KDIR 2023 — evaluates interpretability of quantized CNNs on resource-constrained hardware."
 date: 2023-11-01

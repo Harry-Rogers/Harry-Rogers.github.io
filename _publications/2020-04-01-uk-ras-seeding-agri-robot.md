@@ -1,6 +1,7 @@
 ---
 title: "An open source seeding agri-robot"
 collection: publications
+category: conferences
 permalink: /publication/2020-uk-ras-seeding-agri-robot
 excerpt: "Open-source Raspberry Pi seeding agri-robot prototype with GPS-guided dispensing, presented at UK-RAS 2020."
 date: 2020-04-01

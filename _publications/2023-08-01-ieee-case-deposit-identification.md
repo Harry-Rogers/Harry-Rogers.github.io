@@ -1,6 +1,7 @@
 ---
 title: "An agricultural precision sprayer deposit identification system"
 collection: publications
+category: conferences
 permalink: /publication/2023-ieee-case-deposit-identification
 excerpt: "Deep-learning deposit identification for agricultural precision sprayers, IEEE CASE 2023."
 date: 2023-08-01

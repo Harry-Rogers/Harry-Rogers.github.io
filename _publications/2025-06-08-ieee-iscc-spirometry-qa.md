@@ -1,6 +1,7 @@
 ---
 title: "Quality Assurance for Home Spirometry using Machine Learning"
 collection: publications
+category: conferences
 permalink: /publication/2025-ieee-iscc-spirometry-qa
 excerpt: "Machine-learning quality-assurance for unsupervised home spirometry, IEEE ISCC 2025."
 date: 2025-06-08
