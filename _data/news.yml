@@ -5,12 +5,12 @@
 - date: "Dec 2025"
   item: "Preprint *[Learning to Defer: A Survey](/publication/2025-l2d-survey)* (Strong, Sun, **Rogers**, Higham, Noble) — arXiv."
 
-# TODO(owner): confirm exact start month
-- date: "2025"
-  item: "Started as Postdoctoral Research Associate at the [Institute of Biomedical Engineering](https://eng.ox.ac.uk/), University of Oxford — member of the [Noble group](https://eng.ox.ac.uk/biomedia/) and [SHAIPE](https://www.shaipe.co.uk/people.html)."
-
 - date: "Jun 2025"
   item: "Co-authored *Quality Assurance for Home Spirometry using Machine Learning* presented at [IEEE ISCC 2025](/publication/2025-ieee-iscc-spirometry-qa)."
+
+# TODO(owner): confirm exact month
+- date: "2024"
+  item: "Started as Postdoctoral Research Associate at the [Institute of Biomedical Engineering](https://eng.ox.ac.uk/), University of Oxford — member of the [Noble group](https://eng.ox.ac.uk/biomedia/) and [SHAIPE](https://www.shaipe.co.uk/people.html)."
 
 - date: "Sep 2024"
   item: "Co-authored *Automating the Clock Drawing Test with Deep Learning and Saliency Maps* presented at [EPIA 2024](/publication/2024-epia-clock-drawing-test)."

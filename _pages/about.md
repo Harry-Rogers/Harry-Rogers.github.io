@@ -25,7 +25,7 @@ My MSc at Lincoln was *An Empirical Comparison of Optimisation Methods for Embed
 
 My DPhil at UEA (Sept 2021 – Sept 2024) was *Closing The Loop on Precision Spraying*, in collaboration with Syngenta and supervised by Prof. Beatriz De La Iglesia (UEA) and Prof. Grzegorz Cielniak (Lincoln / LIAT), with Ben Magri as industrial lead. The work developed **post-spraying effect monitoring** for precision spraying systems — integrating autonomous crop/weed/pest targeting and fluid dispensing while staying aligned with EU Green Deal regulatory guidelines. It produced the [KDIR 2023 Best Paper Award](/publication/2023-kdir-interpretable-quantized-cnn) and a [TAROS 2023 Best Application Nomination](/publication/2023-taros-precision-spraying-evaluation).
 
-Between PhD and Oxford the same XAI thread carried into clinical data: automating the Clock Drawing Test with saliency maps ([EPIA 2024](/publication/2024-epia-clock-drawing-test)) and quality assurance for home spirometry ([IEEE ISCC 2025](/publication/2025-ieee-iscc-spirometry-qa)).
+The same XAI thread carried into clinical data toward the end of the PhD and into Oxford: automating the Clock Drawing Test with saliency maps ([EPIA 2024](/publication/2024-epia-clock-drawing-test)) and quality assurance for home spirometry ([IEEE ISCC 2025](/publication/2025-ieee-iscc-spirometry-qa)).
 
 ## Now / Recently / Previously
 
