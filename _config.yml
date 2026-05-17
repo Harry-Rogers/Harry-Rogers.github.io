@@ -171,7 +171,9 @@ exclude:
   - .bundle
   - .github
   - .jekyll-assets-cache
+  - .planning
   - .sass-cache
+  - CLAUDE.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
