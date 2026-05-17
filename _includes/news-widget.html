@@ -1,0 +1,9 @@
+{% if site.data.news and site.data.news.size > 0 %}
+<ul class="news-list" markdown="0">
+  {% for entry in site.data.news limit:5 %}
+    <li><strong>{{ entry.date }}</strong> — {{ entry.item }}</li>
+  {% endfor %}
+</ul>
+{% else %}
+<p><em>No news yet.</em></p>
+{% endif %}
