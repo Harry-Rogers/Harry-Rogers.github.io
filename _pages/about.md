@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm Harry Rogers, a Postdoctoral Research Associate at the Institute of Biomedical Engineering (IBME), University of Oxford. I'm a member of Prof. Alison Noble's [Biomedical Image Analysis group](https://eng.ox.ac.uk/biomedia/) and the [SHAIPE](https://www.shaipe.co.uk/people.html) consortium — a collaborative group spanning engineering, psychology, and clinical practice.
+<div class="affiliations" style="display:flex; flex-wrap:wrap; gap:1.5em; align-items:center; margin:0 0 1.5em 0;">
+  <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group" style="display:inline-flex; align-items:center; gap:0.5em; text-decoration:none; color:inherit;">
+    <img src="/images/oxford-engineering-logo.svg" alt="University of Oxford — Department of Engineering Science" style="height:42px;" />
+    <strong>Noble Group</strong>
+  </a>
+  <a href="https://www.shaipe.co.uk/people.html" style="display:inline-flex; align-items:center; gap:0.5em; text-decoration:none; color:inherit;">
+    <img src="/images/shaipe-logo.png" alt="SHAIPE" style="height:42px;" />
+    <strong>SHAIPE</strong>
+  </a>
+</div>
 
-<a href="https://www.shaipe.co.uk/people.html"><img src="/images/shaipe-logo.png" alt="SHAIPE logo" style="float:right;width:120px;margin:0 0 1em 1em;" /></a>
+I'm Harry Rogers, a Postdoctoral Research Associate at the Institute of Biomedical Engineering (IBME), University of Oxford. I'm a member of Prof. Alison Noble's [Noble Group](https://eng.ox.ac.uk/biomedical-image-analysis/noble-group) (Biomedical Image Analysis) and the [SHAIPE](https://www.shaipe.co.uk/people.html) consortium — a collaborative group spanning engineering, psychology, and clinical practice.
 
 My core research thread is **robot vision, deep learning, and eXplainable AI (XAI)** — and the human–AI collaboration that wraps around them. I'm interested in the mechanics of how AI systems and people share decisions, evidence, and trust, not as a wrapper around an opaque model, but as a property of the system from the start.
 
@@ -17,7 +26,11 @@ At Oxford I'm working on **AI as an instructor** within SHAIPE — using vision-
 
 ## Background
 
-<a href="https://agriforwards-cdt.blogs.lincoln.ac.uk/"><img src="/images/agriforwards-logo.svg" alt="AgriFoRwArdS CDT logo" style="float:right;width:160px;margin:0 0 1em 1em;" /></a>
+<p>
+  <a href="https://agriforwards-cdt.blogs.lincoln.ac.uk/" aria-label="AgriFoRwArdS CDT">
+    <img src="/images/agriforwards-logo.svg" alt="AgriFoRwArdS CDT" style="width:260px; max-width:60%; padding:0.8em 1em; background:#fff; border:1px solid #e0e0e0; border-radius:6px; box-shadow:0 1px 4px rgba(0,0,0,0.06); float:right; margin:0 0 1em 1em;" />
+  </a>
+</p>
 
 I joined the [AgriFoRwArdS CDT](https://agriforwards-cdt.blogs.lincoln.ac.uk/) in September 2020 after a BSc in Computer Science at the University of Lincoln, where I focused on robotic software development. My undergraduate dissertation was *Low-Cost Swarm-able Seeding Agri-Robot: Mechatronics and Geospatial Navigation* — a build-and-program project that ended up published as [*An Open Source Seeding Agri-Robot*](/publication/2020-uk-ras-seeding-agri-robot) (UK-RAS 2020).
 
