@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Harry Rogers"
   pronouns         : # example: "she/her"
-  bio              : "Postdoctoral Research Associate at the Institute of Biomedical Engineering, University of Oxford. Member of the [Noble group](https://eng.ox.ac.uk/biomedical-image-analysis/noble-group) and [SHAIPE](https://www.shaipe.co.uk/people.html). Explainable AI and human–AI collaboration in computer vision."
+  bio              : 'Postdoctoral Research Associate at the Institute of Biomedical Engineering, University of Oxford. Member of the <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group"><img src="/images/oxford-engineering-logo.svg" alt="" style="height:14px;vertical-align:middle;margin:-2px 2px 0 0;" />Noble Group</a> and <a href="https://www.shaipe.co.uk/people.html"><img src="/images/shaipe-logo.png" alt="" style="height:14px;vertical-align:middle;margin:-2px 2px 0 0;" />SHAIPE</a>. Explainable AI and human–AI collaboration in computer vision.'
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : "https://eng.ox.ac.uk/people/harry-rogers"
